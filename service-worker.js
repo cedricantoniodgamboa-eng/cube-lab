@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "cube-lab-pwa-v1";
+const CACHE_NAME = "cube-lab-pwa-v2";
 
 const APP_SHELL = [
   "./",
